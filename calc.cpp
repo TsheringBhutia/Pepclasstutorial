@@ -29,6 +29,10 @@ int main(){
         
             cout<<"result: "<<(a%b);
             break;
+        case 6:
+            cout<<"result: "<<(a<<b);
+            break;
+        
         
         default:
         cout<<"invalid";
